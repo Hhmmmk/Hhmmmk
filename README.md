@@ -1,10 +1,8 @@
 # Hi there! :wave:
 
-<img align='left' width='47.575%' src="https://github-readme-stats.vercel.app/api?username=Hhmmmk&show_icons=true&theme=tokyonight&count_private=true"/>
-<img align='left' width='47%.575' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hhmmmk&layout=compact&langs_count=5)](https://github.com/Hhmmmk/github-readme-stats"/>
-  
----  
-  
+<img align='left' width='47.5%' src="https://github-readme-stats.vercel.app/api?username=Hhmmmk&show_icons=true&theme=tokyonight&count_private=true"/>
+<img align='left' width='47%.5' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hhmmmk&layout=compact&langs_count=5)](https://github.com/Hhmmmk/github-readme-stats"/><br>
+
 ## Prefered Technology Stack
 <img alt='HTML' align='left' src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'/>
 <img alt='CSS' align='left' src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'/>
