@@ -4,6 +4,12 @@
 <img align='left' width='47.6%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hhmmmk&layout=compact&langs_count=5)](https://github.com/Hhmmmk/github-readme-stats"/><br>
 <br>
 
+## Latest Coding Activity
+<img
+  src="https://github.com/Hhmmmk/Hhmmmk/blob/main/images/stat.svg"
+  alt="Hhmmmk WakaTime Activity"
+/>
+
 ## Prefered Technology Stack
 <img alt='HTML' align='left' src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'/>
 <img alt='CSS' align='left' src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'/>
