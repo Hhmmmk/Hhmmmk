@@ -2,7 +2,6 @@
 
 <img align='left' width='47.6%' src="https://github-readme-stats.vercel.app/api?username=Hhmmmk&show_icons=true&theme=tokyonight&count_private=true"/>
 <img align='left' width='47.6%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hhmmmk&layout=compact&langs_count=5)](https://github.com/Hhmmmk/github-readme-stats"/><br>
-<br>
 
 ## Latest Coding Activity
 <img
