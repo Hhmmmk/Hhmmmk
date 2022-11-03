@@ -28,6 +28,7 @@
 <img alt='StyledComponents' src='https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white'/>
 
 ### BackEnd
+<img alt='TS-Node' align='left' src='https://img.shields.io/badge/ts--node-3178C6?style=for-the-badge&logo=ts-node&logoColor=white'/>
 <img alt='Node' align='left' src='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white'/>
 <img alt='TypeScript' src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white'/>
 <!--- <img alt='ExpressJs' src='https://img.shields.io/badge/Express.js-404D59?style=for-the-badge'/> --->
