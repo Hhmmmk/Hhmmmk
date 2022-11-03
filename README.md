@@ -35,7 +35,7 @@
 
 
 ### Database
-<img alt='Amazon DynamoDB' align='left' src='https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white'/>
+<img alt='Amazon DynamoDB' src='https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white'/>
 <!--- <img alt='PostgreSQL' src='https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white'/> --->
 
 ### Authentication
