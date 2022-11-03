@@ -51,8 +51,8 @@
 
 
 ## Summary Card
-<img alt='Summary Card' align='left' width='60%' src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hhmmmk&theme=vue'/>
-<img alt='Stats' width='35.2%' src='https://github-readme-streak-stats.herokuapp.com/?user=Hhmmmk'/>
+<img alt='Summary Card' align='left' width='55%' src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hhmmmk&theme=vue'/>
+<img alt='Stats' width='40.2%' src='https://github-readme-streak-stats.herokuapp.com/?user=Hhmmmk'/>
 
 
 
