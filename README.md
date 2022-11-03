@@ -49,8 +49,10 @@
 ### Source Control
 <img alt='Git' src='https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white'/>
 
-<img alt='Summary Card' src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hhmmmk&theme=vue'/>
+
+## Summary Card
+<img alt='Summary Card' align='left' width='60%' src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hhmmmk&theme=vue'/>
 <img alt='Stats' src='https://github-readme-streak-stats.herokuapp.com/?user=Hhmmmk'/>
 
-<img alt='Trophies' src='https://github-profile-trophy.vercel.app/?username=Hhmmmk'/>
-<img alt='Hits' src='https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHhmmmk1212%2Fhit-counter'/>
+
+
