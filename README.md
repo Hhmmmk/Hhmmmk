@@ -52,7 +52,7 @@
 
 ## Summary Card
 <img alt='Summary Card' align='left' width='60%' src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hhmmmk&theme=vue'/>
-<img alt='Stats' src='https://github-readme-streak-stats.herokuapp.com/?user=Hhmmmk'/>
+<img alt='Stats' width='29%' src='https://github-readme-streak-stats.herokuapp.com/?user=Hhmmmk'/>
 
 
 
