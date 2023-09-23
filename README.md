@@ -3,11 +3,11 @@
 <img align='left' width='47.6%' src="https://github-readme-stats.vercel.app/api?username=Hhmmmk&show_icons=true&theme=tokyonight&count_private=true"/>
 <img align='left' width='47.6%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hhmmmk&layout=compact&langs_count=10)](https://github.com/Hhmmmk/github-readme-stats"/><br>
 
-<!-- ## Latest Coding Activity
+## Latest Coding Activity
 <img
   src="https://github.com/Hhmmmk/Hhmmmk/blob/main/images/stat.svg"
   alt="Hhmmmk WakaTime Activity"
-/> -->
+/> 
 
 ## Technology Stack
 
